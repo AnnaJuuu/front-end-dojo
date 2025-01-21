@@ -7,7 +7,9 @@
   <img src="https://raw.githubusercontent.com/github/explore/main/topics/react/react.png" alt="React" width="50">
 </div>
 
+<div align="center">
+  <h1>🎯 공부 목표</h1>
+  <p>1️⃣ 프론트엔드 기초부터 심화까지 단계적으로 학습하기 </p>
+  <p>2️⃣ 주제별 프로젝트를 진행하며 실력을 키우기 💪  </p>
+</div>
 
-## 🎯 공부 목표
-1️⃣ 프론트엔드 기초부터 심화까지 단계적으로 학습하기  
-2️⃣ 주제별 프로젝트를 진행하며 실력을 키우기 💪  
