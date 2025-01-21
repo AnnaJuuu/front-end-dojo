@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Front-End Study 🎨✨</h1>
-  <p>이 레포지토리는 프론트엔드 공부 내용을 정리한 것입니다.</p>
+  <p>프론트엔드 공부 내용을 정리</p>
   <img src="https://raw.githubusercontent.com/github/explore/main/topics/html/html.png" alt="HTML" width="50">
   <img src="https://raw.githubusercontent.com/github/explore/main/topics/css/css.png" alt="CSS" width="50">
   <img src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png" alt="JavaScript" width="50">
