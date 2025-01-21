@@ -9,5 +9,5 @@
 
 <div align="center">
     <h1>코드 보러가기 ✨</h1>
-### 🌐 html | 🎨 css | ⚙️ javascript | ⚛️ react
+🌐 [html](https://github.com/AnnaJuuu/Front-end-study/tree/html) | 🎨 css | ⚙️ javascript | ⚛️ react
 </div>
