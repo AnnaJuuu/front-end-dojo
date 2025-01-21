@@ -42,7 +42,7 @@
 <hr/>
 
 ### list
-`ol` 순서가 있는 리스트 (ordered list)
-`ul` 순서가 없는 리스트(unordered list)
-type 속성의 값 : **`1`  `A`  `a`  `i`  `I`**
-속성 사용 방법 : key = value
+`ol` 순서가 있는 리스트 (ordered list) <br />
+`ul` 순서가 없는 리스트(unordered list) <br />
+type 속성의 값 : **`1`  `A`  `a`  `i`  `I`** <br />
+속성 사용 방법 : key = value <br />
