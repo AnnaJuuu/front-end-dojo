@@ -8,6 +8,6 @@
 </div>
 
 <div align="center">
-    <h1>코드 보러가기 ✨</h1>
+    <h3>코드 보러가기 ✨</h3>
 <a href="https://github.com/AnnaJuuu/Front-end-study/tree/html">🌐 html</a>  | 🎨 css | ⚙️ javascript | ⚛️ react
 </div>
