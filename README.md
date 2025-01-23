@@ -9,5 +9,6 @@
 
 <div align="center">
     <h3>코드 보러가기 ✨</h3>
-<a href="https://github.com/AnnaJuuu/Front-end-study/tree/html">🌐 html</a> &nbsp; | &nbsp; 🎨 css &nbsp; | &nbsp; ⚙️ javascript &nbsp; | &nbsp; ⚛️ react
+<a href="https://github.com/AnnaJuuu/Front-end-study/tree/html">🌐 html</a> &nbsp; | &nbsp; <a href="https://github.com/AnnaJuuu/Front-end-study/tree/css">🎨 css</a> &nbsp; | &nbsp; ⚙️ javascript &nbsp; | &nbsp; ⚛️ react
 </div>
+
