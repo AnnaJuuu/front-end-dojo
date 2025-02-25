@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+ <meta charset="UTF-8">
+ <meta name="viewport" content="width=device-width, initial-scale=1.0">
+ <title>nth-child</title>
+ <style>
+  #container > li:nth-child(5) {
+   color: red;
+  }
+
+  /*-n = 0, -n + 2 = 0부터 2번까지*/
+  #container > li:nth-child(-n + 2) {
+   color: violet;
+  }
+
+    /*n = 맨 마지막, n + 7 = 마지막 부터 위에서 7번째까지 */
+    #container > li:nth-child(n + 7) {
+   color: orange;
+  }
+
+    /* 2~4를 선택 -> 잘 안 씀, class더 많이 사용 */
+    #container > li:nth-child(n + 3):nth-child(-n + 4) {
+   color: chocolate;
+  }
+  
+  /* 첫 번째 선택 */
+  #container > li:first-child {
+   color: aqua;
+  }
+  /* 마지막 선택 */
+  #container > li:last-child {
+   color: blue ;
+  }
+
+  /* 마지막 기준으로 선택 */
+  #container > li:nth-last-child(-n + 3) {
+   color: green;
+  }
+
+
+ </style>
+</head>
+<body>
+ <ul id="container">
+  <li>container의 자식 li태그</li>
+  <li>container의 자식 li태그</li>
+  <li>container의 자식 li태그</li>
+  <li>container의 자식 li태그</li>
+  <li>container의 자식 li태그</li>
+  <li>container의 자식 li태그</li>
+  <li>container의 자식 li태그</li>
+  <li>container의 자식 li태그</li>
+  <li>container의 자식 li태그</li>
+  <li>container의 자식 li태그</li>
+  <li>container의 자식 li태그</li>
+ </ul>
+ 
+</body>
+</html>

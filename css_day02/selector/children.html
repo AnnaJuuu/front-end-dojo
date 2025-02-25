@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+ <meta charset="UTF-8">
+ <meta name="viewport" content="width=device-width, initial-scale=1.0">
+ <title>자식, 자손 선택자</title>
+ <style>
+  /* container에 있는 span 자손을 선택하여 red 색상을 줌 */
+  #container span {
+   color: red;
+  }
+  /* container에 있는 p 자식을 선택하여 coral 색상을 줌 */
+  #container > p {
+   color: blue;
+  }
+
+  /*
+  container에 있는 모든 p 태그가 다 green 색상으로 변경 
+
+  #container p {
+   color: green;
+  }
+   */
+  
+  /*ul 태그의 li태그만 폰트 컬러를 green으로 변경
+    단, 자식 또는 자손 선택자를 이용해서 변경한다. */
+  ul > li {
+   color: green;
+  }
+
+ </style>
+</head>
+<body>
+ <div id="container">
+  조상 div 태그 
+  <p>부모 p태그</p>
+  <div>
+   부모 div 태그
+   <span>자손 span 태그</span>
+   <strong>
+    자손 strong 태그
+    <p>다 같이 들어가요!</p>
+    <a href="#">자손 a태그</a>
+   </strong>
+  </div>
+ </div>
+ 
+ <!-- ol>li*3-->
+ <ol>
+  <li>ol의 자식 li태그</li>
+  <li>ol의 자식 li태그</li>
+  <li>ol의 자식 li태그</li>
+ </ol>
+
+ <!-- ul>li*3 -->
+ <ul>
+  <li>ul의 자식 li태그</li>
+  <li>ul의 자식 li태그</li>
+  <li>ul의 자식 li태그</li>
+ </ul>
+
+</body>
+</html>
