@@ -1,0 +1,26 @@
+#container {
+ width: 600px;
+ height: 600px;
+ background-color: bisque;
+}
+
+.box {
+ width: 100px;
+ height: 100px;
+ background-color: red;
+}
+
+#box1 {
+ margin: 60px 30px;
+ padding-top: 20px;
+}
+
+#box2 {
+ margin-top: 100px;
+ padding: 60px;
+}
+
+#box3 {
+ margin: 20px 60px 10px 50px;
+}
+
