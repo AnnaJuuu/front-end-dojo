@@ -1,0 +1,12 @@
+#box {
+ /*
+ 최소크기 비교
+ width: max(50%, 300px);
+ 최대크기 비교
+ width: min(100%, 1000px);
+ */
+ width: 100%;
+ max-width: 1000px; /*min-width: 300px;*/
+ height: 200px;
+ background-color: purple;
+}
